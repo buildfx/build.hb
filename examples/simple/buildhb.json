@@ -1,0 +1,8 @@
+{
+  "templates_file": "js/templates.js",
+  
+  "src": ["templates/home.handlebars",
+          "templates/author.handlebars"]
+
+}
+
