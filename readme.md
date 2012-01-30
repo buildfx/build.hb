@@ -11,7 +11,9 @@ files and refreshes the single .js output file as and when any of the templates 
 Settings
 ========
 Configure your project in a buildhb.json file. These settings can be configured:
+
 - templates_file (optional; default=templates.js)
+
 - src
 
 
